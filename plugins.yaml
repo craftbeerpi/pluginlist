@@ -1,8 +1,8 @@
 Plugin1:
-  description: Plugin1
+  description: SampleActor
   api: 3.0
   author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi_plugin
+  repo_url: https://github.com/craftbeerpi/sample_actor
 
 Plugin2:
   api: 3.0
