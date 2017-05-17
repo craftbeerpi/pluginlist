@@ -1,4 +1,4 @@
-Plugin1:
+SampleActor:
   description: SampleActor
   api: 3.0
   author: CraftBeerPi
