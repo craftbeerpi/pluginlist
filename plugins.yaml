@@ -3,9 +3,3 @@ SampleActor:
   api: 3.0
   author: CraftBeerPi
   repo_url: https://github.com/craftbeerpi/sample_actor
-
-Plugin2:
-  api: 3.0
-  description: Plugin2
-  author: CraftBeerPi
-  repo_url: https://github.com/Manuel83/cbpi_plugin
